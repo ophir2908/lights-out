@@ -1,0 +1,9 @@
+.board {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: brown;
+    margin: auto;
+}
